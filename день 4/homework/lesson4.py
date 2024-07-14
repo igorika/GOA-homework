@@ -10,8 +10,7 @@ name="Igor"
 age=18+10
 
 print(name)
-print(age)                                #exercice 2                                                                                                                                                                                   
-
+                                          #exercice 2
 name="Maia"
 age=47+10
 
