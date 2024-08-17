@@ -1,5 +1,4 @@
 
-
 # # 1. Print numbers from 1 to 5 using a for loop.
 # for i in range(1,5+1):
 #      print(i)
@@ -9,7 +8,7 @@
 #     print (i)
 #     i += 1 
 # # 3. Print each character in the string "hello" using a for loop.
-# word = "Erekle"
+# word = "Igor"
 # for char in word:
 #     print (char)
 # # 4. Print each character in the string "hello" using a while loop.

@@ -7,7 +7,7 @@
 #     print (i)
 #     i += 1 
 # 3. Print each character in the string "hello" using a for loop.
-# word = "Andria"
+# word = "Igor"
 # for char in word:
 #     print (char)
 # 4. Print each character in the string "hello" using a while loop.
@@ -109,3 +109,5 @@
 # fruits =["Apple", "Banana", "Cherry"]
 # for fruits in fruits:
 #     print(fruits)
+
+print
